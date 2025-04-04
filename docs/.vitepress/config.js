@@ -1,10 +1,7 @@
-// import { defineConfig } from 'vitepress'
-
 export default {
     title: 'Heikki Kainulainen',
-    description: 'Programmer Heikki Kainulainen\'s Homepage. Getting Started with Java EE and React.',
+    description: "Hi, I'm Heikki Kainulainen, a software developer focused on solving complex problems.",
     themeConfig: {
-        // search: false,
         nav: [
             { text: 'About Me', link: '/about-me' },
             { text: 'GitHub', link: 'https://github.com/hmkainul' }

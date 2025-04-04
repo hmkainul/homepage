@@ -1,3 +1,3 @@
 # About Me
 
-Heikki Kainulainen is a programmer with over 15 years experience in enterprise projects. He lives in Jyväskylä, Finland, and has a Master's degree from University of Jyväskylä.
+Heikki Kainulainen is a seasoned programmer with over two decades of experience in enterprise projects. Currently residing in Jyväskylä, Finland, he holds a Master's degree from the University of Jyväskylä.
